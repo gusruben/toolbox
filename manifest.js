@@ -265,10 +265,10 @@ export default [
       },
       {
         name: "Pizza Grant",
-        description: "$100 to buy food for your club!",
+        description: "Earn $5 per shipped project from your club to buy pizza!",
         icon: "briefcase",
         external: true,
-        url: "https://hackclub.com/pizza/",
+        url: "https://airtable.com/appSUAc40CDu6bDAp/pagvu2xGhfsMC8AOL/form",
         forUseBy: "everyone",
       },
       {
